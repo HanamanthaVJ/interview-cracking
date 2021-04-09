@@ -1,3 +1,3 @@
 # interview-cracking
 Interview cracking source for C, Data structure and Algorithms 
-Start contirbuting One progarm daily 
+Please use & contribute to this "open source" project 
